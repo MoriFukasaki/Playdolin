@@ -1,0 +1,12 @@
+# Visual Studio local settings and caches
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output (including copied game, Unity, and BepInEx dependencies)
+[Bb]in/
+[Oo]bj/
+
+# Source files, project files, and Assets/*.wav remain tracked.
