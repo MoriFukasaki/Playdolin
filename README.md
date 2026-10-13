@@ -1,6 +1,6 @@
 # Playdolin
 
-**Version 1.0.0** — a free-play Needolin mod for Hollow Knight: Silksong.
+**Version 1.0.2** — a free-play Needolin mod for Hollow Knight: Silksong.
 
 Play individual notes and chords across three octaves using your keyboard, with optional reverb. The game's original Needolin actions remain available when free-play mode is off.
 
