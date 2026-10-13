@@ -4,8 +4,6 @@
 
 Play individual notes and chords across three octaves using your keyboard, with optional reverb. The game's original Needolin actions remain available when free-play mode is off.
 
-You only need the released DLL; no Visual Studio, source code, or build tools are required.
-
 ### What you need
 
 - BepInEx installed and working.
